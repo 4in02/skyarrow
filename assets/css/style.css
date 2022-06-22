@@ -115,7 +115,7 @@ html {
 
 #slider{
     padding-top: 50%;
-    background: url(/assets/img/base.png)top center/cover no-repeat;
+    background: url(../img/base.png)top center/cover no-repeat;
 }
 
 
